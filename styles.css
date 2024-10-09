@@ -1,0 +1,48 @@
+.head{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(245, 207, 117);
+}
+
+.head > div{
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    padding: 12px;
+
+}
+#hobbies{
+    background-color: rgb(237, 188, 95);
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 30px;
+}
+#bullet{
+    display: inline;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    padding: 12px;
+}
+#list-hobbies{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(227, 168, 90);
+    margin: auto;
+}
+#motto{
+    text-align: center;
+    background-color: rgb(230, 156, 82);
+    font-size: 25px;
+    padding: 12px;
+}
+.imgs{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.imgs >img{
+    width: 500px;
+    height: auto;
+    
+}
