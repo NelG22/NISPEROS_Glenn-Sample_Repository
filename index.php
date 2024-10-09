@@ -52,9 +52,9 @@ $motto = "<b>\"Nothing will make you feel better except doing the work.<b>\""
             </ul>
         </div>
         <div class="imgs">
-            <img src="drawing.jpg" alt="drawing">
-            <img src="reading.jpg" alt="reading">
-            <img src="cooking.jpg" alt="cooking">
+            <img src="imgs/drawing.jpg" alt="drawing">
+            <img src="imgs/reading.jpg" alt="reading">
+            <img src="imgs/cooking.jpg" alt="cooking">
         </div>
     </section>
 
